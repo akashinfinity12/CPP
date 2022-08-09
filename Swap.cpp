@@ -9,6 +9,7 @@ void swap(int *x, int *y)
   *y = temp;
 }
 
+// Main function
 int main()
 {
   int a, b;
